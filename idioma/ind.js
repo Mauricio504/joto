@@ -557,9 +557,11 @@ exports.afkDone = (pushname) => {
 }
 
 exports.left = (num) => {
-	return`akhirnya beban group berkurang 𝟭,bye bye🥳 @${num.split('@')[0]} jasamu akan di kubur dalam²`
+	return`_Weno ps.... amm😪...  @${num.split('@')[0]}\ se nos fue, ni llorar es bueno:)_
+_*Ojala y le baya bien, y mas despues..... que lo atropelle un tren!!🚉🤣*_
+*No se awiten gente, esten seguros que nadie lo extrañara:D²`
 }
 
 exports.welcome = ( mdata , num ) => {
-	return`Hallo @${num.split('@')[0]}\Selamat datang di group *${mdata.subject}* yang betah ya di sini`
+	return`*_🌊Hola🍭 @${num.split('@')[0]}\ Te damos la Bienvenida a ${mdata.subject} Espero y sea de su agrado🧘🏻‍♂️ ,contamos con su apoyo🔥 recuerda seguir las reglas y mantener una formalidad respetuosa(🌚TU PAPI EDAR🎩DOMINA✨)_*`
 }
